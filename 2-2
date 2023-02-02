@@ -1,0 +1,60 @@
+@所有人  2月2日群内五题
+1、 [单选] Sam 正在从事一个新的系统部署项目。 该项目有两个关键部分：一是开放一个新的应用程序，但是它的需求不明确，预计会有多个变化；二是设置一个硬件，有明确的端到端工作范围。 Sam 应该使用哪个项目生命周期？
+Sam is working on a new system deployment project. The project has two key parts; a new application development that has unclear requirements and expected to have multiple changes, and a hardware setup part with a clear end-to-end scope of work. Which project life cycle should Sam use?
+ A：预测型生命周期 Predictive life cycle
+ B：迭代型生命周期 Iterative life cycle
+ C：增量型生命周期 Incremental life cycle
+ D：混合型生命周期 Hybrid life cycle
+
+ D
+
+ 项目有不确定部分和预测部分，所以选D
+
+2、 [单选] 你团队中的一名敏捷实践者不得不突然请假。他留下了很多待办工作，给团队带来了压力。在这个情况下，你会怎么做？
+One of the agile practitioners on your team had to take an emergency unplanned leave. This caused the team pressure since he had loads of work to finish. What would you do in this situation?
+ A：让团队无视压力，继续尽其所能推进项目 Explain to the team to work on the items without pressure and deliver what they can
+ B：要求团队做好每天加班的计划，以便完成这项工作 Request for the team to plan to spend extra hours each day so that they finish this work
+ C：请人力资源经理立即补充可以从事此工作的人手 Ask the resource manager to provide another resource immediately who can take up this work
+ D：通知产品负责人，推迟发布日期 Inform the product owner and move the release date
+A
+常见题 
+敏捷团队，遇到了问题，项目可能会延期，怎么处理
+自组织团队遇到问题，要自己消化，一切靠自己
+
+
+3、[单选] 你是Scrum团队中的Scrum主管。你已经在这个岗位上工作了八年多，参与过不同的项目。你正处于迭代过程中，遇到了一个问题：产品负责人不想对产品待办列表中的项目进行优先级排序，他说一切都很重要、很关键。你的最佳应对方式是什么？
+You are a Scrum Master in a Scrum team. You have been working in this role for over eight years now on different projects. You are in the midst of an iteration and you have an issue: The Product Owner doesn't want to prioritize items in the Product Backlog. He says everything is important and is critical. What is the best you can do?
+ A：让Scrum团队不考虑事项优先级，继续工作。因为无论如何，你们都必须交付所有特性。优先级不是一个严重的问题 Let the Scrum Team work without prioritizing. Anyway, you will have to deliver all the features. It is not a critical problem
+ B：坚定不移，坚持要按优先级排序 Be firm and insist on prioritizing
+ C：你自己来考虑产品待办事项的优先顺序 Prioritize the Product Backlog yourself
+ D：让团队决定哪些特性最重要 Let the Team decide which features are most important
+
+ B   产品负责人需要对优先级排序，这个是他的职责，既然是敏捷团队，需要遵从敏捷价值观。
+
+4、 [单选] 你是从事敏捷项目的 Scrum主管。在进行第三个冲刺时，项目利益相关方要求你报告为什么从冲刺中删除了一些特性，以及在下一个 冲刺中会看到哪些预期特性？ 作为 Scrum主管，你将如何处理这种情况？
+You are a Scrum master working on an agile project. While working on the third Sprint the project stakeholders ask you to report why you removed some of the features from the Sprint and what are the expected features to be seen in the next Sprint? What will you do as a Scrum Master to handle this situation?
+ A：“请项目利益相关方从产品负责人那里获取信息” Request the project stakeholders to get information from the product owner
+ B：“请项目利益相关方检查项目分解图” Request the project stakeholders to check the project breakdown chart
+ C：“请项目利益相关方从团队成员那里获取信息” Request the project stakeholders to get information from the team members
+ D：“在下一次迭代评审会议上提交报告” Submit the requested report in the next iteration review meeting
+
+ A
+在敏捷团队中，产品负责人负责与相关方、客户及团队合作，定义产品开发方向，为将要开发/交付的下一个功能设定方向，决定每个冲刺要交付的需求、特性和价值。因此题目中提到的“相关方需要了解为什么要从第三次冲刺中删除特性”，以及“下一个冲刺中会有哪些特性”，都是由产品负责人来决策，并与相关方沟通和合作的。
+
+项目功能特点方面是由产品负责人负责的
+
+
+5、[单选] 你的敏捷顾问建议你开始在卡片上编写用户故事,每个故事代表一个工作。每张卡片都是状态信号，指示何时可以提取新的工作，这种方法有助你看见工作流程。顾问建议使用的工具是什么?
+Your agile consultant is suggesting that you start using writing your user stories on cards, where each of them represents single pieces of work. Each card acts as a signal of status and indicates when new work can be pulled, which will help you visualize your workflow. What tool is the consultant suggesting?
+ A：Scrum板 Scrum board
+ B：看板 Kanban board
+ C：任务板 Task board
+ D：用户故事板 User-stories board
+ B
+
+ 看板是带有卡片的物理看板面板，它能够推动和实现整个系统中工作流的可视化，让每个人都可以看到。题干中“卡片上编写用户故事”“指示何时可以提取新的工作”“有助你看见工作流程”明显是看板的特点。
+
+ Scrum版是一种用于管理产品代办事项列表和冲刺代办事项列表的信息发射源，它能够清楚地展现团队角色及职责，帮助团队更新任务进度，促进团队信息共享，及时发现任务过程中的异常现象，从而查漏补缺。任务板跟Scrum版是一样的，它们流动的都是任务。
+
+ 用户故事板可以理解为铺上所有用户故事的一块板子，它类似用户故事地图，不过用户故事地图画有发布分支线，单纯的用户故事板没有这条线。
+
