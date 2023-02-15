@@ -1,0 +1,64 @@
+@所有人 2.14情人节快乐呀各位，今天也是要好好做题的一天[加油]
+
+1、 在被要求比预期时间更早地完成项目的行政收尾时,项目经理应该做什么?
+What should a project manager do when asked to complete a project's administrative closure earlier than expected?
+ A ：重定需求规范的基准 Re-baseline the requirements specifications
+ B ：确保项目文档已存档 Ensure that project documentation is archive
+ C ：更新问题日志 Update the issue log
+ D ：提交变更请求 Submit a change request
+ D
+
+2、 在团队会议期间，项目经理不能保持项目团队的注意力，团队成员不断查看电子邮件，并讨论不相关的话题，发生这种问题的原因是什么？
+During team meetings, the project manager cannot maintain the project team’s attention. Team members constantly check emails and discuss unrelated topics. What is the cause of this issue?
+ A ：项目经理没有准备会议议程 The project manager does not have a meeting agenda
+ B ：项目经理没有沟通团队原则 The project manager has not communicated the ground rules
+ C ：项目经理处于一个弱矩阵型组织 The project manager is in a weak matrix organization
+ D ：项目经理的领导力不足 The project manager has inadequate leadership skills
+
+ A
+
+ B  团队原则规定团队成员的行为准则
+
+3、  客户对交付的产品不满意，称其并不符合他们的期望。项目经理很惊讶，因为敏捷开发团队提前几个迭代交付了产品。项目经理有什么方法可以避免这种结果？
+A customer is not satisfied with the delivered product, saying that it was not what they expected. The project manager is surprised, because the agile development team delivered the product several iterations early. What is one way that the project manager could have avoided this result?
+ A ：要求团队对需求的每一个持续的变更签字 Required team sign off for each of the constant changes to the requirements
+ B ：在做出变更之后，为产品测试留出更多资源 Set aside more resources for product testing after changes are made
+ C ：确保客户意识到演示的价值 Made sure that the customer was aware of the value of demos
+ D ：确保团队充分参与开发项目范围 Ensured that the team fully participated in developing the project scope
+
+ D 提前交付，范围出现问题了
+
+ C 按照流程就是演示
+
+4、 在项目管理计划获得批准后，项目经理得知该项目的工作环境存在潜在问题，项目经理应该审查哪份文件？
+After the project management plan was approved, the project manager learned that there was a potential problem with the projects work environment. Which document should the project manager review?
+ A ：项目章程 Project charter
+ B ：质量管理计划 Quality management plan
+ C ：相关方参与计划 Stakeholder management plan
+ D ：组织过程资产 Organizational process assets
+
+D
+A 项目章程包含环境制约因素
+
+
+5、你所在的公司主要生产方便面。你们的产品一直很受消费者的欢迎，更没有出现任何与食品安全有关的质量问题。但是，最近一个月，你们已经接到三次关于质量问题的消费者投诉，说是在食用方便面之后发生腹泻。被消费者投诉的产品，是一种新型的产品，其中有一种新的调味品。它是通过一条专门的作业线添加的。公司高级管理层任命你领导一个团队来调查所发生的问题。你和你的团队决定使用以下哪一种技术?
+The main product line of your company is instant noodles. Your products have been very popular among consumers, no quality issues concerning food safety occurred. But you have received three consumer complaints about quality issues in the last month, claiming diarrhea after eating your instant noodles. The product complained by consumers is a new product type, including a new seasoning. It is added on a dedicated production line. The senior management of the company appoints you as a team leader to look into the issues that occurred. Which of the following techniques do you and your team decide to use?
+ A ：实验设计 Experiment design
+ B ：控制图 Control diagram
+ C ：流程图 Flow diagram
+ D ：帕累托图 Pareto chart
+
+ C
+
+
+
+
+ Function.prototype.bind2 = (obj) => {
+    const fn = this
+    const [_, ...argus1] = arguments
+    return function(...argus2) {
+        fn.apply(this, [...argus1, ...argus2])
+    }
+ }
+
+ Function.prototype.

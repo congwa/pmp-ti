@@ -1,0 +1,76 @@
+@所有人 
+🌞同学们早上好呀
+
+"所有成绩的取得，无不源于点滴日常的努力
+所有事业的突破，无不得益于积年累月的奋斗"
+
+每日五题早晨发送，下午4点前发答案哦~
+
+1.You have found that the one‐week sprint length is no longer a viable rhythm for your current sprint. The development team can’t create tangible, tested, and approved the product within one week. The sprint velocity is very low, which is very concerning to various stakeholders. As a scrum master, what should you do?
+A. Increase the sprint length to two weeks. The capacity of a development team during a two‐week sprint will be higher.
+B. Keep the current sprint length. Shorter sprints decrease the amount of time between feedback received from stakeholders.
+C.Change the sprint goal. As the team can’t achieve the sprint goal, it becomes irrelevant
+D.Cancel the sprint and start a new one with a smaller number of story points
+你发现按照当前的冲刺节奏，一周的冲刺时长已不实际。 开发团队无法在一周内创造出成形的产品、完成测试并批准产品。 冲刺速度非常低，利益相关方非常担忧。 作为Scrum 主管，你应该怎么做？
+A：将冲刺时长增加到两周。开发团队在为期两周的冲刺时长中生产力会更高。
+B：保持当前的冲刺时长。 较短的冲刺时长减少了从利益相关方收到反馈的时间。
+C：改变冲刺目标。 既然团队无法实现冲刺目标，该目标便变得无关紧要 
+D：取消冲刺并开始一个故事点数较少的新冲刺 
+
+C 冲刺时间一定是不能变的，所以改变冲刺的目标，降低目标
+
+2.You have been engaged as the project manager of an innovative project to develop a new type of thermal power station. You have great experience in the field and were given theopportunity to choose your team. You have a great team and trust them completely. They know that you have full trust in them, and you want them to develop both personally and professionally during the project. The team members are feeling confident that the project will be a success. What type of leadership are you promoting?
+A.Transactional leadership
+B.Charismatic leadership
+C.Servant leadership
+D.Laissez faire leadership
+你被聘为新型火电站的创新开发项目的项目经理。你在该领域拥有丰富的经验，并有机会组建的团队。你有一个很棒的团队并且完全信任他们，他们也知道你完全信任他们，你还希望他们在项目期间在个人和专业方面都得到发展。团队成员相信项目将取得成功。你采用的是什么领导方式？
+A：交易型领导 
+B：魅力型领导 
+C：服务型领导
+D：自由放任型领导 
+
+C  关注员工成长，是服务型领导
+
+3.The requirements for the new database are very vague to the product owner. After lengthy discussions with the customer, you discovered that you don’t have enough knowledge about the product or the process of building the product to move forward. As an agile practitioner, what should you do next?
+A.Start creating your first user stories and requirements will eventually evolve
+B.Start a spike to clarify the current risk due to the technical uncertainty within the project 
+C.Carry on with backlog refinement and inform senior stakeholders about the situation
+D.Start a sprint Zero where you complete project setup, infrastructure provisioning, setting up of project document repository, standardizing tools, and building your team
+对于产品负责人来说，新数据库的要求非常模糊。 在与客户进行了长时间的讨论后，你发现你对产品或构建产品的过程没有足够的了解，难以继续推进。 作为敏捷实践者，接下来应该怎么做？
+A：开始创建你的第一个用户故事，要求最终会发展清晰 
+B：“由于项目中的技术不确定性，开始刺探以理清当前的风险 
+C：“继续细化待办事项列表，并将情况告知高级利益相关方” 
+D：“从零开始冲刺，你可以在其中完成项目设置、基础设施配置、项目文档存储库的设置、工具标准化和团队建设” 
+
+B 需求不清晰，所以去找需求，只有B最贴近
+
+4.You’re hiring for a new project, and you’re looking for someone who is an expert on business needs, can prioritize, and can work well with the rest of the scrum team. All changes to the product backlog should be done by him/her. What role are you looking for?
+A.An experienced scrum-master
+B.Software project manager
+C.Software technical lead
+D.Product owner
+你正在为一个新项目招聘人员，正在寻找熟悉业务需求并懂得制定优先级、可与Scrum 团队其他成员合作良好的专家。他/她将完成所有更新产品待办列表的工作。你在找什么角色的人员？
+A：经验丰富的 Scrum主管 
+B：软件项目经理 
+C：软件技术负责人 
+D：产品负责人
+
+D  定义优先级，就是产品负责人
+
+5.Eric spends most of his time each day organizing and facilitating activities, coaching the team members, and acting as a change agent. This includes setting up the activities, overseeing their execution, and enabling the rest of the team to perform at a level where high_x0002_value results are achieved. What role is Eric playing in the project?
+A.Scrum master
+B.Product owner
+C.Project manager
+D.Team manager
+Eric每天大部分时间都在组织活动、推动活动开展、指导团队成员以及推动变革，具体包括设置活动、监督活动执行，并使团队其他成员的工作能够实现高价值结果。Eric在项目中扮演的是什么角色?
+A：Scrum主管 
+B：产品负责人 
+C：项目经理 
+D：团队经理 
+
+C  没有说明是敏捷项目，就不是敏捷项目。
+
+正确答案A  题目中每天组织活动等行为判断是敏捷项目，只有A是敏捷项目负责这个事情的
+
+

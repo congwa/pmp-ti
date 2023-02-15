@@ -1,0 +1,62 @@
+@所有人  02.10每日五题
+🌞同学们早上好呀
+
+"所有成绩的取得，无不源于点滴日常的努力
+所有事业的突破，无不得益于积年累月的奋斗"
+
+每日五题早晨发送，下午4点前发答案哦~
+
+1.你为一家与美国陆军签了合同的机构开发软件系统。 在第一个 冲刺中创建了几个特性之后，你希望团队展示为实现冲刺目标已完成的工件。 应该在什么时候进行展示？
+A：在冲刺评审期间 
+B：在每周客户更新会议期间 
+C：在冲刺回顾中 
+D：在你的下一次每日站会中
+
+B 敏捷团队，5个仪式  冲刺计划会议 每日站会会议 冲刺评审会议 冲刺回顾会议 代办事项梳理
+
+所以此题的正确答案选A
+
+2.通常，障碍会在每日站会中提出，但出。 除了提出障碍之外，在每日站会期间还应该发生什么？
+A：每个团队成员应回答以下问题； 自上次每日站会以来，我完成了什么？ 我计划在下一个每日站会中做什么？ 
+B：项目经理应该能够通过直接向团队成员提问来获得项目状态的最新信息 
+C：将开发中的冲刺待办事项的状态传达给产品负责人 
+D：讨论自当前冲刺开始以来进展顺利的地方，并发现改进的机会。 
+
+A 每日站会应该干什么
+
+3.You’re a project manager who has been assigned to a firewall replacement project where security features can be designed, built, and configured by one non-specialized, cross-functional team in a time frame ranging from two to four weeks. What do you think is the best delivery approach for this project?
+A. Scrum; The product could be delivered in time-boxes of 1 month or less with consistent durations where a potentially releasable increment of product is produced.
+B.  Kanban; we’re operating with one team only, and we need to limit the work in progress (WIP) to optimize workflow and reduce lead time.
+C.Pure waterfall; we need a specialized team to support this product and a more sequential process flow considering the sensitive nature of the solution.
+D.None of the above
+你是一名项目经理，被分配到一个更换防火墙的项目，在该项目中，这个非专业的跨职能团队将在两到四周时间内设计、构建和配置完成防火墙的安全特性。 你认为该项目的最佳交付方式是什么？
+A：Scrum； 产品可以在 1 个月或更短的时间盒内交付，并具有一致的持续时间，其中产生了潜在的可发布的产品增量。
+B：看板； 我们只与一个团队合作，我们需要限制在制品 (WIP) 以优化工作流程并缩短前置时间。
+C：瀑布； 考虑到解决方案的敏感性，我们需要一个专门的团队来支持这个产品，还需要一个更连续的工艺流程。 
+D：以上都不对 
+
+非专业跨职能。 最好就是混合团队或者增量。  A
+
+4.You have been managing Agile projects for the past few years. Based on your experience, personal interaction and interpersonal skills are the most important in building your team. You know that coaching and mentoring is one of the best ways to improve your team member’s skills. As a team coach, what should be your attitude toward your team members’ individual goals and personal motivations?
+A.Ignore them; personal issues have no bearing on reaching the project goals.
+B.
+C. Cultivate them; personal goals are an important reason why people want to be successful at work.
+D.
+过去几年你一直在管理敏捷项目。 根据你的经验，个人互动和人际交往能力对于组建你的团队来说是最重要的。 你知道训练和指导成员是提高团队成员技能的最佳方法之一。 作为团队教练，你对团队成员的个人目标和个人动机应该持什么态度？
+
+A：“忽略它们；个人问题与实现项目目标无关。” 
+B：“培养他们；个人目标是人们希望在工作中取得成功的重要原因。”
+C：“理解它们；尝试将个人动机与团队实现项目目标的进展保持一致。” Understand them; try to align personal motivations with the team’s progress toward the project goals.
+D：“利用他们；用个人目标说服团队成员提高他们的绩效水平” Leverage them; use individual goals to persuade team members to raise their performance level
+
+C 敏捷教练就是一个秘书
+
+5.你的团队已经不再因琐碎的工作问题而无休止地争论。 你同意他们是一群实力强大、知识渊博的人，但同时也固执己见。 你知道你已经花了无数个小时来解决大大小小的冲突。 几个月后的今天，你领导的敏捷团队终于进入了执行阶段。 团队成员现在需要你作为他们的领导者做什么？
+Gone are the days when your team had endless arguments over trivial work issues. You agree that they are quite a group of strong,knowledgeable,yet opinionated individuals. You know that you have spent countless hours resolving any conflicts, from trivial to relevant. After several months, the agile team you are leading has finally reached the Performing stage. What do the team members need from you as their leader now?
+
+A：他们需要很多指导才能让他们完全专注于 他们的目标 They need a lot of direction to keep them fully focused on their goals
+B：他们现在需要你的指导和支持，以确保他们的表现保持高水平。 They need your direction and support now, to make sure their performance stays high.
+C：他们现在不需要太多的指导或支持； 他们基本上可以自我支持和自我指导的 They don't need much direction or support now; they are mostly self-supporting and self-directing
+D：尽管他们不会承认，但他们仍然需要很多支持。你可以让他们自己指导自己的工作 Even though they won't admit it, they still need a lot of support. You can let them direct their own work, though
+
+C 团队进入执行阶段，不太需要支持和指导
