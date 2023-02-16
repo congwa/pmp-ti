@@ -16,7 +16,10 @@ You have been assigned to lead an agile project. However, when you meet with you
  C ：向加班的团队成员提供奖励 Offer rewards to the team members to work overtime
  D ：根据个人能力调整任务 Adjust assignments based on individual capacity
 
- C  我认为建设团队最靠谱
+ C  我认为建设团队最靠谱。
+
+ 答案 D  敏捷倡导专职，若实在无法专职，则需要根据团队能力自行安排调整任务。 敏捷团队是自组织的，通才的 专职的。
+
 
 3、 项目团队成员在地理位置、文化以及工作实践方面存在多样化，若要确保团队遵从标准方法，项目经理可以怎么做？
 When project team members are diverse regarding their locations, cultures, and work practice, what can a project manager do to ensure that the team adheres to a common standard approach?
@@ -34,7 +37,9 @@ An agile team is working on their first project together. The objectives for the
  C ：没有办法能阻止描述的情况 Nothing could have prevented the situation described
  D ：促进会议建立社会契约 Facilitated a meeting to establish a social contract
 
- A 有规律的时间框节奏符合敏捷的原则  资源日历规定了标准的工作时间
+ A 选项没有D选项范围大
+
+ 答案D 建立社会契约就是团队章程 敏捷团队可持续发展的工作时间，减少工作峰值。 要有团队章程,工作时间也是要团队自己去自组织的
 
 5、项目负责人反复抱怨，称开发团队开发的功能似乎与原始设计不一致。什么做法有助于解决这个问题？
 A project owner repeatedly complains, saying that a function developed by the development team does not seem to align with the original design. What will help to solve this issue?
@@ -54,12 +59,28 @@ const func = function(n, target = 0) {
     if(n%2 === 0) { // 偶数
         let a = n/2
         target += a
-        func(a, target)
+        return func(a, target)
     } else { // 奇数
         let a = (n-1)/2
         target += a
         let b = (n-1)/2 + 1
-        func(b, target)
+        return func(b, target)
     }
 
+}
+
+
+
+const func = function(n) {
+    let target = 0
+    while(n > 1) {
+        if(n%2 === 0) {
+            n = n / 2
+            target += n
+        } else {
+            target += (n-1)/2
+            n = (n-1)/2 + 1
+        }
+    }
+    return target
 }
